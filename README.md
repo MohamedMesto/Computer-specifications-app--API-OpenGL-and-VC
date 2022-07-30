@@ -1,2 +1,2 @@
-# Computer Specifications App API OpenGL and VC++
+# Computer Specifications App using API OpenGL and VC++
 Will uploaded soon
